@@ -1,0 +1,13 @@
+# Add your Python package requirements here
+# The application will install these packages when you run it
+# Format: one package per line, optionally with version constraints
+# Examples:
+# flask==2.0.1
+# requests>=2.25.0
+# numpy
+
+flask
+werkzeug
+jinja2
+flask-sqlalchemy
+flask-login
